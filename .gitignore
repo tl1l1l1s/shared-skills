@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+
+# logs
+*.log
+
+# cover-letter 작업물 (개인 자소서)
+자소서/

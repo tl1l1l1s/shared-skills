@@ -1,0 +1,28 @@
+# environment
+.env
+.env.*
+
+# tokens / local settings
+.claude/settings.local.json
+.mcp.json
+config/*.md
+!config/*.example.md
+
+# personal raw logs
+workspace/inbox.md
+workspace/tasks.md
+workspace/tasks-done.md
+workspace/dashboard.md
+workspace/standup-review.md
+workspace/weekly/
+workspace/daily/
+workspace/sessions/
+workspace/estimates.md
+workspace/portfolio/
+workspace/.obsidian/
+
+# OS
+.DS_Store
+
+# logs
+*.log
